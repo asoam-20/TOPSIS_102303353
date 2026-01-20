@@ -9,11 +9,22 @@
 ## Overview
 This is a Python package that implements the **Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)**. It is a multi-criteria decision-making (MCDM) method used to rank alternatives based on their distance from the "Ideal Best" and "Ideal Worst" solutions.
 
-
+---
 
 ## Installation
 
 You can install the package directly from PyPI using the following command:
+
+---
+**Live Link**
+
+https://asoam20.pythonanywhere.com/
+
+---
+**Screenshot**
+
+<img width="662" height="406" alt="image" src="https://github.com/user-attachments/assets/ba1c24aa-7e99-453a-8375-26ba437b3b6b" />
+
 
 ```bash
 pip install Topsis-Aditya-102303353
@@ -54,5 +65,6 @@ M3,32,16,300,4,0.7215,1
 M4,32,8,275,4,0.6128,2
 
 ## License
+
 
 https://choosealicense.com/licenses/mit/
